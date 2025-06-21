@@ -49,6 +49,10 @@ Bu uygulama:
 
 ## Program icerisinden ekran goruntuleri
 
+| Gorsel 1 | Gorsel 2 | Gorsel 3 | Gorsel 4 |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img width="200" alt="image 1" src="https://github.com/user-attachments/assets/0703cdf6-9fc9-45f7-b8e6-fa43178febc8" /> | <img width="200" alt="image 2" src="https://github.com/user-attachments/assets/1ca7dfb1-3d9d-45b2-a38c-07f0d90ad983" /> | <img width="200" alt="image 3" src="https://github.com/user-attachments/assets/84e99ea5-b810-4c95-a403-b6e85ee6a219" /> | <img width="200" alt="image 4" src="https://github.com/user-attachments/assets/25675a9c-5fb3-457b-b6a6-a5e5f5950cce" />|
+
 ## Gelistirme ve Ozellestirme
 
 * Harita uzerindeki isaretciler ve koordinatlar kolayca genisletilebilir.
