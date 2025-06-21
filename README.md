@@ -11,8 +11,6 @@ Bu uygulama:
 * Kullanicinin secimine gore yaya veya arac rotasi olusturur ve harita uzerinde gosterir,
 * Apple’in Look Around (Sokak Gorunumu) ozelligini destekler,
 
----
-
 ## Ozellikler
 
 * **Harita Stili Secimi:** Kullanici standart, uydu ve hibrit harita gorunumleri arasinda gecis yapabilir.
@@ -21,16 +19,12 @@ Bu uygulama:
 * **Look Around Destegi:** Isaretler uzerinde context menu araciligiyla Look Around goruntusu acilabilir.
 * **Kullanici Konumu:** Harita uzerinde kullanici konumu gosterilir.
 
----
-
 ## Teknik Bilgiler
 
 * **Gelistirme Dili:** Swift (SwiftUI)
 * **Minimum iOS Surumu:** iOS 17.0
 * **Xcode Versiyonu:** 15 ve uzeri
 * **Kullanilan API’ler:** MapKit, Swift Concurrency (async/await)
-
----
 
 ## Kurulum ve Calistirma
 
@@ -46,8 +40,6 @@ Bu uygulama:
 4. Projeyi gercek bir cihazda veya iOS 17+ simulatorde calistirin.
 5. Harita uzerinde konum isaretlerini gorebilir, rota olusturabilir ve Look Around deneyimini yasayabilirsiniz.
 
----
-
 ## Kullanim
 
 * Harita uzerinde sabit iki nokta (Times Square ve Central Park) bulunur.
@@ -55,10 +47,7 @@ Bu uygulama:
 * "Rota Olustur" butonuna basarak secilen ulasim turune gore rota hesaplanir ve harita uzerinde gosterilir.
 * Times Square isaretine uzun basarak acilan context menuden "Look Around" secenegini kullanabilirsiniz.
 
----
 ## Program icerisinden ekran goruntuleri
-
----
 
 ## Gelistirme ve Ozellestirme
 
@@ -67,13 +56,9 @@ Bu uygulama:
 * Look Around ozelligi destekleyen bolgeler genisletilebilir.
 * UI ogeleri SwiftUI ile kolayca ozellestirilebilir.
 
----
-
 ## Lisans
 
 Bu proje MIT Lisansi ile lisanslanmistir. Dilediginiz gibi kullanabilir, degistirebilir ve dagitabilirsiniz.
-
----
 
 ## Iletisim
 
