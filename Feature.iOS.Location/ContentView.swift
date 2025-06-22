@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  App.iOS.Location
+//  Feature.iOS.Location
 //
 //  Created by emre argana on 22.06.2025.
 //
@@ -29,6 +29,8 @@ struct ContentView: View {
     
     /// Hesaplanan rota bilgisi, harita uzerinde gosterilir
     @State private var route: MKRoute?
+    
+    let locationManager = CLLocationManager()
     
     var body: some View {
         ZStack(alignment: .bottom) {
@@ -138,6 +140,9 @@ struct ContentView: View {
                     .shadow(radius: 10)
             )
             .padding()
+        }
+        .onAppear {
+            locationManager.requestWhenInUseAuthorization()
         }
     }
     
